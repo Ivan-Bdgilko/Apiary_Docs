@@ -1,4 +1,8 @@
+> **Notice:** This repository is no longer maintained, and the documentation here is outdated. The current, up-to-date documentation is available [here](https://ivan-bdgilko.github.io/BeeApiary_Docs/).
+
 Language: [English](README.md) | [Українська](README.uk.md) | [Polski](README.pl.md) | [Deutsch](README.de.md)
+
+[User manual](https://ivan-bdgilko.github.io/BeeApiary_Docs/)
 
 User manual [.pdf](https://github.com/Ivan-Bdgilko/Apiary_docs/blob/main/User%20Manual.pdf)
 
